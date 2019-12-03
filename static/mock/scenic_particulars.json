@@ -1,0 +1,54 @@
+{
+    "scenic":[
+        {
+            "name":"河南博物馆",
+            "s":4,
+            "evaluate":"1430条评论",
+            "text":"荟萃华夏文明瑰宝之地",
+            "text1":"距你1.0千米.河南博物馆",
+            "imgs":"./static/images/scenic/se_detail/timg-02@2x.png",
+            "time":"9:00-22:00",
+            "give":[
+                {"imga":"./static/images/scenic/se_detail/icon-04@2x.png",
+                "quantity":"2.7k"
+                }
+            ],
+            "price":"￥255"
+
+        },
+        {
+            "name":"郑州黄河风景名胜区(4A)",
+            "s":4,
+            "evaluate":"776条评论",
+            "text":"华夏文明发祥地,万里黄河上的璀璨明珠",
+            "text1":"距你24千米.郑州黄河风景名胜区",
+            "imgs":"./static/images/scenic/se_detail/timg-04@2x.png",
+            "time":"9:00-22:00",
+            "give":[
+                {"imga":"./static/images/scenic/se_detail/icon05@2x.png",
+                "quantity":"2.7k"
+                }
+            ],
+            "price":"￥43"
+
+        },
+        {
+            "name":"二七纪念塔",
+            "s":4,
+            "evaluate":"1429条评论",
+            "text":"郑州地标,几年二七大罢工英雄",
+            "text1":"距你2.8千米.郑州黄河风景名胜区",
+            "imgs":"./static/images/scenic/se_detail/timg-05@2x.png",
+            "time":"9:00-22:00",
+            "give":[
+                {"imga":"./static/images/scenic/se_detail/icon05@2x.png",
+                "quantity":"1k"
+                }
+            ],
+            "price":"￥39"
+
+        }
+
+    ]
+
+}

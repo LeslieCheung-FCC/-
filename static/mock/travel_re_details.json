@@ -1,0 +1,28 @@
+{
+    "arr":[
+        {
+            "img":"../../../static/images/home/travel/pic-01@2x.png",
+            "name":"直觉先生",
+            "time":10,
+            "tag":"精选",
+            "text":"[非洲vlog4] 小时候很多人都这样放肆玩耍过，而当现代文明带给我们越来越多的幸福的时候，我们也在失去那种最直接简单的快乐。到非洲...  ",
+            "big_img":"../../../static/images/home/travel/pic-02@2x.png"
+        },
+        {
+            "img":"../../../static/images/home/travel/pic-01@2x.png",
+            "name":"直觉先生",
+            "time":10,
+            "tag":"精选",
+            "text":"[非洲vlog4] 小时候很多人都这样放肆玩耍过，而当现代文明带给我们越来越多的幸福的时候，我们也在失去那种最直接简单的快乐。到非洲...  ",
+            "big_img":"../../../static/images/home/travel/pic-02@2x.png"
+        },
+        {
+            "img":"../../../static/images/home/travel/pic-01@2x.png",
+            "name":"直觉先生",
+            "time":10,
+            "tag":"精选",
+            "text":"[非洲vlog4] 小时候很多人都这样放肆玩耍过，而当现代文明带给我们越来越多的幸福的时候，我们也在失去那种最直接简单的快乐。到非洲...  ",
+            "big_img":"../../../static/images/home/travel/pic-02@2x.png"
+        }
+    ]
+}

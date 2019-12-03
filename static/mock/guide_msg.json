@@ -1,0 +1,24 @@
+{
+   "msg": [
+{
+    "imgUrl":"../../static/images/guide/Icon-(8).png",
+    "name":"李丽",
+    "introduce":"喜欢日本料理的摄影师"
+},
+{
+    "imgUrl":"../../static/images/guide/Icon- (23).png",
+    "name":"高宏伟",
+    "introduce":"户外运动达人"
+},
+{
+    "imgUrl":"../../static/images/guide/Icon- (2).png",
+    "name":"隋春磊",
+    "introduce":"环保推广职员"
+},
+{
+    "imgUrl":"../../static/images/guide/Icon- (11).png",
+    "name":"龙力里",
+    "introduce":"自由职业摄影师，美食专家"
+}
+    ]
+}

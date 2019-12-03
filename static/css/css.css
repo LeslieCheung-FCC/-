@@ -1,0 +1,22 @@
+
+.out .swiper-scrollbar .swiper-scrollbar-drag {
+  width: 1.3rem !important;
+}
+
+.out .swiper-scrollbar-drag {
+  left: 4%;
+  background: #fd6519 !important;
+}
+
+.out .swiper-container-horizontal>.swiper-scrollbar {
+  width: 1.26rem;
+  top: 0;
+  position: absolute;
+  height: .02rem;
+  width: 100%;
+  z-index: 999;
+  left: 0;
+}
+.out .swiper-slide .swiper-slide-active{
+    height: 100%;
+}

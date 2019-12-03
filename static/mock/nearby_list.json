@@ -1,0 +1,86 @@
+{
+"list":[
+    {
+        "name":"宝贝你",
+        "distance":"0.2km",
+        "imgs":"./static/images/meet/icon-41.png",
+        "tag":[
+            {
+                "tg_name":"单身",
+                "color":"#4fb2ff"
+            },
+            {
+                "tg_name":"赴约",
+                "color":"#fd6519"
+            }
+        ],
+        "text":"梯田真美,尤其日落时分照在上面...",
+        "nv":"./static/images/meet/Icon- (8).png"
+        
+
+    },
+    {
+        "name":"公主花",
+        "distance":"0.3km",
+        "imgs":"./static/images/meet/Icon- (32).png",
+        "tag":[
+            {
+                "tg_name":"单身",
+                "color":"#4fb2ff"
+            },
+            {
+                "tg_name":"赴约",
+                "color":"#fd6519"
+            },
+            {
+                "tg_name":"在线",
+                "color":"#00ff00"
+            }
+        ],
+        "text":"只能说门票越来月贵了,但是还是...",
+        "nv":"./static/images/meet/Icon- (8).png"
+
+    },
+    {
+        "name":"杨萍大坏蛋",
+        "distance":"0.4km",
+        "imgs":"./static/images/meet/Icon- (35).png",
+        "tag":[
+            {
+                "tg_name":"单身",
+                "color":"#4fb2ff"
+            },
+            {
+                "tg_name":"有空",
+                "color":"#fd6519"
+            }
+           
+        ],
+        "text":"金坑大寨梯田,每一处都是风景...",
+        "nv":"./static/images/meet/Icon- (5).png"
+
+
+    },
+    {
+        "name":"假金韩",
+        "distance":"0.5km",
+        "imgs":"./static/images/meet/Icon- (38).png",
+       
+        "text":"金坑大寨梯田,每一处都是风景...",
+        "nv":"./static/images/meet/Icon- (5).png"
+
+
+    },
+    {
+        "name":"假戚薇",
+        "distance":"0.6km",
+        "imgs":"./static/images/meet/Icon- (29).png",
+       
+        "text":"每一刻都在享受这种惬意的心情,在古老...",
+        "nv":"./static/images/meet/Icon- (8).png"
+
+    }
+
+]
+
+}

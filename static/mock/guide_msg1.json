@@ -1,0 +1,23 @@
+{
+   "msg1": [
+       {
+           "imgUrl":"../../static/images/guide/Icon- (14).png",
+           "name":"王保善",
+           "title":"专职司机，退伍军人",
+           "title1":"出生在河南焦作市，退伍军人，现已定居日本并育有..."
+       },
+       {
+        "imgUrl":"../../static/images/guide/Icon- (17).png",
+        "name":"陈佳",
+        "title":"自由行达人，行程规划师",
+        "title1":"日本国立大学博士毕业，驾龄十年以上，超级热爱旅..."
+    },
+    {
+        "imgUrl":"../../static/images/guide/Icon- (20).png",
+        "name":"熊熊",
+        "title":"户外运动达人，RNB爱好者",
+        "title1":"在东京待久了，自然选择了在东京安家，东京都市旁..."
+    }
+
+    ]
+}

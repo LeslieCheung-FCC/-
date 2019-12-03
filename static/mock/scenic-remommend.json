@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "title1": "经典必打卡",
+              "title2":"4.2万人推荐",
+              "imgurl": "../../../static/images/scenic/pic-01@2x.png"
+        },
+        {
+            "title1": "水上乐园",
+              "title2":"4.2万人推荐",
+            "imgurl": "../../../static/images/scenic/pic-02@2x.png"
+        },
+        {
+            "title1": "经典必打卡",
+              "title2":"4.2万人推荐",
+            "imgurl": "../../../static/images/scenic/pic-03@2x.png"
+        } 
+        
+    ]
+}

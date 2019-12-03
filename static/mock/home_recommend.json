@@ -1,0 +1,55 @@
+{
+    "arr":[
+        {
+            "id":0,
+            "cimg":"../../../static/images/home/icon-6 (2).png",
+            "zhoubian":"探访云南周边",
+            "ctitle":"<丽江-大理-香格里拉双飞6日游>性价比优选...",
+            "money":599,
+            "num":4000,
+            "peoole":"人"
+        },
+        {
+            "id":1,
+            "cimg":"../../../static/images/home/icon-7 (2).png",
+            "ctitle":"<丽江-大理-香格里拉双飞6日游>性价比优选...",
+            "money":765,
+            "num":4000,
+            "peoole":"双人"
+        },
+        {
+            "id":2,
+            "cimg":"../../../static/images/home/icon-03.png",
+            "zhoubian":"探访云南周边",
+            "ctitle":"<丽江-大理-香格里拉双飞6日游>性价比优选...",
+            "money":599,
+            "num":4670,
+            "peoole":"双人"
+        }, 
+        {
+            "id":3,
+            "cimg":"../../../static/images/home/icon-09.png",
+            "ctitle":"<丽江-大理-香格里拉双飞6日游>性价比优选...",
+            "money":599,
+            "num":6000,
+            "peoole":"人"
+        },
+        {
+            "id":4,
+            "cimg":"../../../static/images/home/icon-05.png",
+            "zhoubian":"探访云南周边",
+            "ctitle":"<丽江-大理-香格里拉双飞6日游>性价比优选...",
+            "money":599,
+            "num":4670,
+            "peoole":"双人"
+        },
+        {
+            "id":5,
+            "cimg":"../../../static/images/home/icon-12.png",
+            "ctitle":"<丽江-大理-香格里拉双飞6日游>性价比优选...",
+            "money":599,
+            "num":4000,
+            "peoole":"双人"
+        }
+    ]
+}
